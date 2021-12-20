@@ -46,7 +46,7 @@ sudo apt -y install influxdb-client influxdb
   parse-multivalue-plugin = "split"  # "split" or "join"
 ```
 
-# /etc/collectd/auth_file
+### /etc/collectd/auth_file
 ```
 collectd: passwd-xpto
 ```
@@ -56,7 +56,7 @@ collectd: passwd-xpto
 sudo apt-get install --no-install-recommends collectd collectd-core
 ```
 
-# /etc/collectd/collectd.conf
+### /etc/collectd/collectd.conf
 ```
 LoadPlugin cpu
 LoadPlugin disk
