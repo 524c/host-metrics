@@ -22,7 +22,7 @@ sudo apt-get update
 sudo apt-get -y install grafana-enterprise
 ```
 
-# influxdb v1 only
+### influxdb v1 only
 ```
 sudo apt -y install influxdb-client influxdb
 ```
