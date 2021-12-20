@@ -85,3 +85,7 @@ LoadPlugin network
   </Server>
 </Plugin>
 ```
+
+
+### On grafana interface, after add a admin user, import the dashboard file "Host Overview-1640027639335.json"
+
